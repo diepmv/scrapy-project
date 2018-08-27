@@ -1,3 +1,7 @@
+# user define
+*.csv
+*.json
+*.xml
 
 # Created by https://www.gitignore.io/api/python
 
